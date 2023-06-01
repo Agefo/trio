@@ -1,1 +1,1 @@
-# trio
+# triolingoo
